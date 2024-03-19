@@ -1,0 +1,18 @@
+valo
+maahfu@gmail.com:562385
+jcfontes@hotmail.com:saae123456
+mesz0r:Struktor02
+
+Ecrin070_
+
+
+FACE .
+ASDASDASTREYUHMADI5432
+
+mc kod
+
+/give @p diamond_pickaxe{Unbreakable:1,Enchantments:[{id:fortune,lvl:1000},{id:efficiency,lvl:1000}]}
+
+/give @p minecraft:diamond_axe{Enchantments:[{id:efficiency,lvl:1000},{id:fortune,lvl:10},{id:mending,lvl:10},{id:unbreaking,lvl:1000},{id:sharpness,lvl:1000}]}
+
+/give @p minecraft:diamond_sword{Enchantments:[{id:sharpness,lvl:1000},{id:knockback,lvl:10},{id:mending,lvl:10},{id:unbreaking,lvl:10},{id:looting,lvl:100},{id:fire_aspect,lvl:10}]}

@@ -1,0 +1,14 @@
+023-01-17 14:54:56 UTC
+IP Address	94.120.217.189
+Country 
+Turkey, Gebze
+Browser	Chrome Mobile (109.0.0.0)
+Operating System	Android 9
+Device	Huawei Y6 (2019)
+User Agent	Mozilla/5.0 (Linux; Android 9; MRD-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Mobile Safari/537.36
+Referring URL	no referrer
+Host Name	94.120.217.189
+ISP	Andromeda Tv Digital Platform Isletmeciligi A.s.
+
+BTEAZCNRMCZNGE
+6779207461880135681
